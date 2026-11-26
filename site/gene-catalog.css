@@ -1,0 +1,65 @@
+.gene-catalog [data-catalog-controls] {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 8px 12px;
+}
+.gene-catalog [data-catalog-controls] label {
+  display: grid;
+  gap: 2px;
+  min-width: 95px;
+  font-size: 13px;
+}
+.gene-catalog [data-catalog-controls] label:first-child {
+  flex: 1 1 215px;
+}
+.gene-catalog [data-catalog-controls] input,
+.gene-catalog [data-catalog-controls] select,
+.gene-catalog [data-catalog-controls] button {
+  box-sizing: border-box;
+  max-width: 100%;
+  min-height: 34px;
+  font: inherit;
+  color: inherit;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 3px 7px;
+}
+.gene-catalog [data-catalog-status] {
+  margin: 8px 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+.gene-catalog .catalog-scroll {
+  max-height: 62vh;
+  overflow: auto;
+}
+.gene-catalog table {
+  margin: 0;
+}
+.gene-catalog thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.gene-catalog tbody th {
+  overflow-wrap: anywhere;
+}
+.gene-catalog .catalog-meta {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: normal;
+}
+.gene-catalog details summary {
+  cursor: pointer;
+}
+.gene-catalog td, .gene-catalog th {
+  min-width: 90px;
+}
+.gene-catalog td:nth-child(2) {
+  min-width: 230px;
+  width: 55%;
+}
