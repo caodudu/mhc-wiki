@@ -1,0 +1,321 @@
+{
+  "DRA/DQA1": {
+    "cds": {
+      "identical": 500,
+      "columns": 799,
+      "identity": 0.6257822277847309,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 137,
+      "columns": 258,
+      "identity": 0.5310077519379846,
+      "by_first_exon": {
+        "1": [
+          27,
+          21
+        ],
+        "2": [
+          79,
+          38
+        ],
+        "3": [
+          94,
+          34
+        ],
+        "4": [
+          51,
+          21
+        ]
+      }
+    }
+  },
+  "DRA/DPA1": {
+    "cds": {
+      "identical": 550,
+      "columns": 791,
+      "identity": 0.695322376738306,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 151,
+      "columns": 261,
+      "identity": 0.578544061302682,
+      "by_first_exon": {
+        "1": [
+          26,
+          16
+        ],
+        "2": [
+          82,
+          36
+        ],
+        "3": [
+          94,
+          27
+        ],
+        "4": [
+          51,
+          23
+        ]
+      }
+    }
+  },
+  "DQA1/DPA1": {
+    "cds": {
+      "identical": 522,
+      "columns": 791,
+      "identity": 0.6599241466498104,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 143,
+      "columns": 261,
+      "identity": 0.5478927203065134,
+      "by_first_exon": {
+        "1": [
+          27,
+          18
+        ],
+        "2": [
+          82,
+          43
+        ],
+        "3": [
+          94,
+          29
+        ],
+        "4": [
+          51,
+          21
+        ]
+      }
+    }
+  },
+  "DRB1/DRB3": {
+    "cds": {
+      "identical": 752,
+      "columns": 798,
+      "identity": 0.9423558897243107,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 237,
+      "columns": 266,
+      "identity": 0.8909774436090225,
+      "by_first_exon": {
+        "1": [
+          33,
+          6
+        ],
+        "2": [
+          90,
+          17
+        ],
+        "3": [
+          94,
+          5
+        ],
+        "4": [
+          37,
+          1
+        ],
+        "5": [
+          8,
+          0
+        ],
+        "6": [
+          4,
+          0
+        ]
+      }
+    }
+  },
+  "DRB1/DRB4": {
+    "cds": {
+      "identical": 747,
+      "columns": 798,
+      "identity": 0.9360902255639098,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 233,
+      "columns": 266,
+      "identity": 0.8759398496240601,
+      "by_first_exon": {
+        "1": [
+          33,
+          4
+        ],
+        "2": [
+          90,
+          20
+        ],
+        "3": [
+          94,
+          6
+        ],
+        "4": [
+          37,
+          2
+        ],
+        "5": [
+          8,
+          0
+        ],
+        "6": [
+          4,
+          1
+        ]
+      }
+    }
+  },
+  "DRB1/DRB5": {
+    "cds": {
+      "identical": 749,
+      "columns": 800,
+      "identity": 0.93625,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 236,
+      "columns": 266,
+      "identity": 0.8872180451127819,
+      "by_first_exon": {
+        "1": [
+          33,
+          4
+        ],
+        "2": [
+          90,
+          13
+        ],
+        "3": [
+          94,
+          8
+        ],
+        "4": [
+          37,
+          2
+        ],
+        "5": [
+          8,
+          1
+        ],
+        "6": [
+          4,
+          2
+        ]
+      }
+    }
+  },
+  "DRB1/DQB1": {
+    "cds": {
+      "identical": 573,
+      "columns": 817,
+      "identity": 0.7013463892288861,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 166,
+      "columns": 269,
+      "identity": 0.6171003717472119,
+      "by_first_exon": {
+        "1": [
+          33,
+          21
+        ],
+        "2": [
+          90,
+          34
+        ],
+        "3": [
+          94,
+          28
+        ],
+        "4": [
+          37,
+          7
+        ],
+        "6": [
+          4,
+          2
+        ]
+      }
+    }
+  },
+  "DRB1/DPB1": {
+    "cds": {
+      "identical": 584,
+      "columns": 813,
+      "identity": 0.7183271832718328,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 161,
+      "columns": 266,
+      "identity": 0.6052631578947368,
+      "by_first_exon": {
+        "1": [
+          33,
+          23
+        ],
+        "2": [
+          88,
+          29
+        ],
+        "3": [
+          94,
+          23
+        ],
+        "4": [
+          37,
+          17
+        ],
+        "5": [
+          4,
+          3
+        ],
+        "6": [
+          2,
+          2
+        ]
+      }
+    }
+  },
+  "DQB1/DPB1": {
+    "cds": {
+      "identical": 587,
+      "columns": 802,
+      "identity": 0.7319201995012469,
+      "by_first_exon": {}
+    },
+    "protein": {
+      "identical": 161,
+      "columns": 264,
+      "identity": 0.6098484848484849,
+      "by_first_exon": {
+        "1": [
+          33,
+          24
+        ],
+        "2": [
+          88,
+          33
+        ],
+        "3": [
+          94,
+          20
+        ],
+        "4": [
+          37,
+          15
+        ],
+        "5": [
+          3,
+          2
+        ]
+      }
+    }
+  }
+}
